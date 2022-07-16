@@ -6,9 +6,6 @@ import time
 import math
 import keyboard as k
 
-a = pygame.image.load("C:\\Users\\marcu\\OneDrive\\Pictures\\Saved Pictures\\Untitled_ico32.ico")
-pygame.display.set_icon(a)
-
 #important stuff
 pygame.init()
 
