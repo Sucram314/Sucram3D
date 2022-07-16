@@ -8,9 +8,6 @@ import keyboard as k
 import numpy as np
 from matplotlib.path import Path
 
-a = pygame.image.load("C:\\Users\\marcu\\OneDrive\\Pictures\\Saved Pictures\\Untitled_ico32.ico")
-pygame.display.set_icon(a)
-
 #important stuff
 pygame.init()
 
